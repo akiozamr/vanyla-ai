@@ -78,15 +78,15 @@
 
 | Info        | Value                     |
 |-------------|---------------------------|
-| Script Name | `Onikata Vanyla`          |
+| Script Name | `Vanyla Ai`          |
 | Framework   | `@itsukichan/baileys`     |
 | Runtime     | `Node.js v24.2.0`         |
 | License     | Apache License 2.0        |
 
 ## 💰 Harga & Lisensi
 
-💸 **Harga:** Rp 80.000,- (sekali bayar, tanpa biaya bulanan)  
-🔓 **Akses:** Lifetime Access + Free Feature Updates  
+💸 **Harga:** Rp 40.000  
+🔓 **Akses:** Lifetime Access
 📜 **Lisensi:** Apache License 2.0 – *Source Code terbuka, bebas dipelajari dan dikembangkan sendiri*  
 ❗ **Catatan:** Pembelian bersifat final. Tidak ada sistem refund. Pastikan sudah mencoba demo/fitur sebelumnya.
 
