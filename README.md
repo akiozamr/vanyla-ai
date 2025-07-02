@@ -18,42 +18,20 @@
   <a href="https://www.whatsapp.com/">
     <img src="https://img.shields.io/badge/Platform-WhatsApp-darkgreen?logo=whatsapp" alt="Platform"/>
   </a>
-  <a href="https://github.com/naruyaizumi">
-    <img src="https://img.shields.io/badge/Developer-Naruya%20Izumi-ff69b4" alt="Developer"/>
+  <a href="https://github.com/akiozamr">
+    <img src="https://img.shields.io/badge/Developer-Akio%20Zamr-ff69b4" alt="Developer"/>
   </a>
-  <a href="https://www.instagram.com/naruyaizumi">
-    <img src="https://img.shields.io/badge/Instagram-@naruyaizumi-orange?logo=instagram" alt="Instagram"/>
+  <a href="https://www.instagram.com/akiozamr_">
+    <img src="https://img.shields.io/badge/Instagram-@akiozamr-orange?logo=instagram" alt="Instagram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb5vz4oDjiOfUeW2Mt03">
+  <a href="https://whatsapp.com/channel/0029VadHPaCEquiSUOeQgT2u">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-brightgreen?logo=whatsapp" alt="WhatsApp Channel"/>
   </a>
-  <a href="https://chat.whatsapp.com/J9DANHhVooxDslMY6Emjhi">
+  <a href="https://chat.whatsapp.com/Gl62LVd4kCV80h96pRBulU">
     <img src="https://img.shields.io/badge/WhatsApp-Group-blueviolet?logo=whatsapp" alt="WhatsApp Group"/>
   </a>
 </p>
 </div>
-
-## 📝 **Changelog 2 Juli 2025**
-📦 `Update Fitur & Perbaikan Sistem`
-
-🔧 *Perbaikan (Fixes):*
-1. Perbaikan Whitespace saat database.json tidak ditemukan
-2. Perbaikan fungsi auto reset limit pengguna
-3. Perbaikan fitur Kerang Ajaib agar tidak error
-4. Perbaikan alasan saat terjadi disconnect WhatsApp
-5. Perbaikan sistem restart
-6. Perbaikan struktur launcher index.js
-7. Dan lain-lain
-
-🌱 *Fitur Baru & Penyesuaian (Additions & Adjustments):*
-1. Penambahan fitur GrowGarden lengkap dengan notifikasi otomatis setiap 6 jam
-2. Penyesuaian fitur Pixelcut Tools
-3. Penambahan fitur YouTube Advanced Downloader
-4. Penyesuaian fitur Store (Toko Digital)
-5. Penyesuaian sistem handler agar lebih stabil
-6. Penambahan sistem Blacklist untuk jpm dan broadcast
-7. Penambahan Text to Img NSFW
-8. Dan lain-lain
 
 ## 📋 Table of Contents
 
@@ -114,12 +92,12 @@
 
 ## 🔗 Kontak & Informasi
 
-- 🌐 **Link Bio**: [naruyaizumi](https://linkbio.co/naruyaizumi)
+- 🌐 **Link Bio**: [akiozamr](https://linkbio.co/akiozamr)
 - 📧 **Email Support**: `sexystyle088@gmail.com`
-- 📱 **WhatsApp Owner**: [Klik di sini](https://wa.me/40766498692)
-- 📣 **Channel WA Update**: [Join Channel](https://whatsapp.com/channel/0029Vb5vz4oDjiOfUeW2Mt03)
-- 👥 **Grup Komunitas**: [Gabung Grup WhatsApp](https://chat.whatsapp.com/J9DANHhVooxDslMY6Emjhi)
-- 📷 **Instagram**: [@naruyaizumi](https://instagram.com/naruyaizumi)
+- 📱 **WhatsApp Owner**: [Klik di sini](https://wa.me/6285168634922)
+- 📣 **Channel WA Update**: [Join Channel](https://whatsapp.com/channel/0029VadHPaCEquiSUOeQgT2u)
+- 👥 **Grup Komunitas**: [Gabung Grup WhatsApp](https://chat.whatsapp.com/Gl62LVd4kCV80h96pRBulU)
+- 📷 **Instagram**: [@akiozamr](https://instagram.com/akiozamr_)
 
 Untuk pertanyaan teknis, bug, atau masukan, kamu bisa langsung kirim lewat email atau DM Instagram.  
 Kita juga punya grup komunitas aktif dan channel update resmi 💌✨
@@ -303,7 +281,7 @@ Berikut pihak-pihak yang berjasa besar dalam pengembangan dan kelangsungan proye
 
 ## 🧩 Partnership & Ownership
 
-- 🧑‍💻 **Author**: གྷ 𝑵𝒂𝒓𝒖𝒚𝒂 𝑰𝒛𝒖𝒎𝒊 — [Social Media](https://linkbio.co/naruyaizumi)  
+- 🧑‍💻 **Author**: གྷ 𝑵𝒂𝒓𝒖𝒚𝒂 𝑰𝒛𝒖𝒎𝒊 — [Social Media](https://linkbio.co/akiozamr)  
 - 🧠 **Co-Author**: གྷ 𝑺𝑿𝒁𝒏𝒊𝒈𝒉𝒕𝒎𝒂𝒓 — [WhatsApp](https://wa.me/6281398961382)  
 - 🤝 **Partners**:  
   • Dinn — [WhatsApp](https://wa.me/6289665362039)  
@@ -402,7 +380,7 @@ is strictly **prohibited** and may result in legal action.
 
 ## 🌸 Arigatou ne~!
 
-![naruyaizumi](https://cloudkuimages.guru/uploads/images/SLmZHi1j.jpg)
+![akiozamr](https://cloudkuimages.guru/uploads/images/SLmZHi1j.jpg)
 
 Kamu udah sampai di akhir dokumentasi~  
 Semoga semua fitur dan fungsi yang kamu baca bisa bermanfaat buat project-mu~  
@@ -410,6 +388,6 @@ Kalau masih ada yang bikin bingung, langsung aja gabung ke grup WhatsApp buat ta
 
 > 📖 Dokumentasi ini disusun karena gabut, semangat ngoding, dan jangan lupa makan 🍓
 
-📬 Kontak Developer: [WhatsApp](https://wa.me/40766498692) • [Instagram](https://instagram.com/naruyaizumi)
+📬 Kontak Developer: [WhatsApp](https://wa.me/6285168634922) • [Instagram](https://instagram.com/akiozamr_)
 
-✨ Powered by: `IZUMI` 🦄
+✨ Powered by: `ZAMR` 🦄
