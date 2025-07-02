@@ -1,4 +1,4 @@
-# <div align='center'>Kayoko – WhatsApp Bot</div>
+# <div align='center'>Vanyla – WhatsApp Bot</div>
 
 <div align='center'>
 
@@ -35,7 +35,7 @@
 
 ## 📋 Table of Contents
 
-- [📖 Deskripsi](#-kayoko--whatsapp-md-script)
+- [📖 Deskripsi](#-vanyla--whatsapp-md-script)
 - [📂 Fitur Utama](#-fitur-utama)
 - [🔥 Fitur Populer](#-fitur-populer)
 - [⚙️ Detail Teknis](#-detail-teknis)
@@ -50,7 +50,7 @@
 - [🌐 Public API Providers](#-public-api-providers)
 - [🌸 Arigatou Ne~](#-arigatou-ne)
 
-# ✨ Kayoko – WhatsApp MD Script
+# ✨ Vanyla – WhatsApp MD Script
 
 🔐 **Secure. Modular. API-Powered.**  
 💡 Dirancang untuk developer, reseller, dan pengguna WhatsApp bot tingkat lanjut yang menginginkan stabilitas, kecepatan, dan struktur kode bersih.
@@ -78,7 +78,7 @@
 
 | Info        | Value                     |
 |-------------|---------------------------|
-| Script Name | `Onikata Kayoko`          |
+| Script Name | `Onikata Vanyla`          |
 | Framework   | `@itsukichan/baileys`     |
 | Runtime     | `Node.js v24.2.0`         |
 | License     | Apache License 2.0        |
@@ -97,7 +97,7 @@
 - 📱 **WhatsApp Owner**: [Klik di sini](https://wa.me/6285168634922)
 - 📣 **Channel WA Update**: [Join Channel](https://whatsapp.com/channel/0029VadHPaCEquiSUOeQgT2u)
 - 👥 **Grup Komunitas**: [Gabung Grup WhatsApp](https://chat.whatsapp.com/Gl62LVd4kCV80h96pRBulU)
-- 📷 **Instagram**: [@akiozamr](https://instagram.com/akiozamr_)
+- 📷 **Instagram**: [@akiozamr_](https://instagram.com/akiozamr_)
 
 Untuk pertanyaan teknis, bug, atau masukan, kamu bisa langsung kirim lewat email atau DM Instagram.  
 Kita juga punya grup komunitas aktif dan channel update resmi 💌✨
@@ -114,7 +114,7 @@ Berikut adalah penjelasan struktur direktori dan ukuran total dari beberapa depe
 | `32 MB` | `WAProto` dalam `@itsukichan/baileys`             | WhatsApp Protocol compiled & embedded, bagian dari core komunikasi         |
 | `35 MB` | `@itsukichan/baileys`                             | Fork modifikasi Baileys yang digunakan untuk komunikasi dengan WA Web API  |
 | `431 MB`| `.pnpm`                                           | Cache dan symlink dari dependency yang dikelola oleh `pnpm`                |
-| `451 MB`| `node_modules` (total)                            | Total keseluruhan dependensi aktif dari proyek Kayoko                     |
+| `451 MB`| `node_modules` (total)                            | Total keseluruhan dependensi aktif dari proyek Vanyla                     |
 
 
 📝 *Catatan:*  
@@ -122,7 +122,7 @@ Ukuran bisa sedikit berbeda tergantung sistem, platform build (`gnu` atau `musl`
 
 ## 📁 Project Structure
 
-Berikut ini struktur direktori utama dari **Kayoko** dan deskripsinya:
+Berikut ini struktur direktori utama dari **Vanyla** dan deskripsinya:
 
 | Lokasi / File             | Deskripsi                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
@@ -171,14 +171,14 @@ nvm current     # Harusnya: v22.17.0
 
 ## 📦 Upload ZIP ke VPS (via Termius/SFTP)
 
-1. Kirim file `kayoko.zip` ke direktori tujuan, misal: `/home/youruser`
+1. Kirim file `vanyla.zip` ke direktori tujuan, misal: `/home/youruser`
 
 ## 📁 Ekstrak & Bersihkan File ZIP
 
 ```bash
-cd ~/kayoko
-unzip kayoko.zip
-rm -rf kayoko.zip
+cd ~/vanyla
+unzip vanyla.zip
+rm -rf vanyla.zip
 ```
 
 ## 🖥️ Jalankan Script dengan PM2 (VPS)
@@ -191,7 +191,7 @@ npm install -g pm2
 ### 2. Jalankan script
 ```bash
 npm install
-pm2 start index.js --name="kayoko"
+pm2 start index.js --name="vanyla"
 ```
 
 ### 3. Auto restart saat reboot
@@ -201,9 +201,9 @@ pm2 save && pm2 startup
 
 ## 📌 Tips Tambahan:
 
-Jalankan pm2 logs kayoko untuk lihat log real-time
+Jalankan pm2 logs vanyla untuk lihat log real-time
 
-Gunakan pm2 restart kayoko kalau ingin reboot script-nya
+Gunakan pm2 restart vanyla kalau ingin reboot script-nya
 
 ## ☁️ Jalankan Script di Pterodactyl Panel
 
@@ -224,7 +224,7 @@ npm start
 ### 🔑 Dapatkan API Key
 
 1. Masuk ke menu **Profile**
-2. Salin bagian `Apikey` — Contoh: `kayoko`
+2. Salin bagian `Apikey` — Contoh: `vanyla`
 
 ### 🌐 Whitelist IP (Wajib Agar API Bisa Diakses)
 
